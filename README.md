@@ -1,3 +1,6 @@
+# JWT Application
+Application that generate a JWT and use it in order to authorize for the endpoints exposed
+
 # API Specs
 
 ### `POST /signup`
